@@ -4,8 +4,7 @@ Read me
 
 	1) Basic TTT and Advance TTT are entirely completed by myself and work is done with python3.
 
-	2) Super TTT is completed with my teammate(Yanhao Ding and Wei Zhou), work is done with Java, because all of us use different programming language and Yanhao Ding is the main person who complete this part of Super TTT.In this part, my work is that test program many time to find bugs and debug and use different evolution function to optimize code.
-
+	2) Super TTT work is done with Java
 
 2.Basic TTT (using python3):
 
